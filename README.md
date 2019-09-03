@@ -1,2 +1,4 @@
-# This is a sample for Dockerfile and Dockerapp
+# This is a sample contained:
+- Dockerfile
+- small Python Script launching small webserver on port 5080 
 
